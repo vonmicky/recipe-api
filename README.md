@@ -10,8 +10,8 @@ The app has two part: `Front-End App` and `RESTful API (this project)`.
 
 * Then navigate into the front-end app directory and run:
 ```node
-> npm install
-> ng serve
+npm install
+ng serve
 ```
 > `npm install` will install all the node module dependencies.
 
@@ -23,13 +23,13 @@ The app has two part: `Front-End App` and `RESTful API (this project)`.
 ### RESTful API
 * Clone this repo or download as a zip file.
 ```git
-> git clone https://github.com/vonmicky/recipe-api.git
+git clone https://github.com/vonmicky/recipe-api.git
 ```
 
 * Navigate into recipe-api directory and run:
 ```node
-> npm install
-> node server
+npm install
+node server
 ```
 
 >Note: You must have [Node.js](https://nodejs.org/en/download/) installed in your machine.
